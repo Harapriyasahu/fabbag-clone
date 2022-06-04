@@ -1,5 +1,6 @@
 ## Fab Bag  Clone [Fab Bag Clone](https://priceless-heyrovsky-aaf112.netlify.app/) 
 Fab Bag  is an indian e-commerce company, We tried core functionalities of Fab Bag during first Construct Week held after completition of Unit 2 in Masai.
+<img src="https://www.linkpicture.com/q/maxresdefault_2.jpg"/>
 ## Technologies used :-
 1)HTML
 2) CSS
@@ -19,6 +20,5 @@ Fab Bag  is an indian e-commerce company, We tried core functionalities of Fab B
 ### Steps to deploy
 ```
   git clone https://github.com/Harapriyasahu/fabbag-clone // Clone This Repo
-  cd Meesho                                                // Move to the repo
   npm install                                              // install required dependencies
   npm run start                                            // Run all Servers
